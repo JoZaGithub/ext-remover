@@ -80,6 +80,13 @@ Sorry, you can't downgrade to v119 or lower. Wait for a new unenrollment exploit
      - This *should* allow skipping the update, or make it not appear at all.
 6. Powerwash the Chromebook at the "Add Account" screen. Afterwards, it'll be fully unenrolled.
 
+###Cisco Umbrella
+**no way unless you have bookmarklets**
+
+
+
+
+
 ### Further Reading
 - [Repository](https://github.com/FWSmasher/CryptoSmite)  
 - [Writeup](https://blog.coolelectronics.me/breaking-cros-2/)
